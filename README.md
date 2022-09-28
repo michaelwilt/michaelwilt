@@ -1,6 +1,8 @@
-![Banner](https://raw.githubusercontent.com/amxchang/amxchang/master/profileavatarbanner.png)
+![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fdata-science.html&psig=AOvVaw0KOv3_P5FPo3n-HLhnkDEm&ust=1664418975566000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJiGuoK6tvoCFQAAAAAdAAAAABAD)
 
 I'm a high school student who lives in the United States. I'm learning how to code. I love making and designing webpages with HTML and CSS (and possible JavaScript in the future).  It's fun to code something that anyone on the web can easily see. I also enjoy programming in C++ and Python because they challenge me more. I love it when I can finally solve a difficult problem.
+
+Hi I am a coding mentor for Bethel Tech. Please love me!
 
 For my programming projects, I usually only upload to Github once I make significant progress. For markdown files, I make commits much more often. Feel free to create a pull request to contribute to any of my repositories.
 
@@ -10,4 +12,4 @@ For my programming projects, I usually only upload to Github once I make signifi
 - 💬 Ask me about fountain pens.
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
-[![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=amxchang)](https://github.com/anuraghazra/github-readme-stats)
+[![Michael's Github Stats](https://github-readme-stats.vercel.app/api?username=michaelwilt)](https://github.com/anuraghazra/github-readme-stats)
