@@ -1,4 +1,4 @@
-![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fdata-science.html&psig=AOvVaw0KOv3_P5FPo3n-HLhnkDEm&ust=1664418975566000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJiGuoK6tvoCFQAAAAAdAAAAABAD)
+![Banner](https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)
 
 I'm a high school student who lives in the United States. I'm learning how to code. I love making and designing webpages with HTML and CSS (and possible JavaScript in the future).  It's fun to code something that anyone on the web can easily see. I also enjoy programming in C++ and Python because they challenge me more. I love it when I can finally solve a difficult problem.
 
